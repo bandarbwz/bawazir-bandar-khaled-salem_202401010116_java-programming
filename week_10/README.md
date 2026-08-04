@@ -1,6 +1,10 @@
 # Week 10 Programming Quiz Battle
 ## video demo 
 
+
+https://github.com/user-attachments/assets/54c13718-532d-4cf0-a796-202d77482d4b
+
+
 ## Scenario
 
 Welcome to the **Java Academy Challenge!**
