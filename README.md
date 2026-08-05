@@ -58,7 +58,7 @@ Java Programming Portfolio
 
 # Weekly Tutorials
 
-## Week 01 — Hello World
+## Week 01 : Hello World
 
 ### Objective
 
@@ -88,7 +88,7 @@ Hello World!
 
 ---
 
-## Week 02 — Classes and Objects
+## Week 02 : Classes and Objects
 
 ### Objective
 
@@ -124,7 +124,7 @@ Ali is taking an exam.
 
 ---
 
-## Week 03 & Week 04 — Inheritance and Polymorphism
+## Week 03 & Week 04 : Inheritance and Polymorphism
 
 ### Objective
 
@@ -159,7 +159,7 @@ I am a lecturer.
 
 ---
 
-## Week 05 — Encapsulation
+## Week 05 : Encapsulation
 
 ### Objective
 
@@ -194,7 +194,7 @@ Programme  : BIT
 
 ---
 
-## Week 06 — Inheritance
+## Week 06 : Inheritance
 
 ### Objective
 
@@ -229,7 +229,7 @@ Department  : Faculty of Information Technology
 
 ---
 
-## Week 07 — Abstract Classes
+## Week 07 : Abstract Classes
 
 ### Objective
 
@@ -271,7 +271,7 @@ Power OFF
 
 ---
 
-## Week 08 & Week 09 — Collections and File Handling
+## Week 08 & Week 09 : Collections and File Handling
 
 ### Objective
 
@@ -322,7 +322,7 @@ Sleep
 
 ---
 
-## Week 10 — Programming Quiz Battle
+## Week 10 : Programming Quiz Battle
 
 ### Objective
 
